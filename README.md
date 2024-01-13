@@ -27,7 +27,7 @@ sql language but you would need to change the adapter and tweak the code).
 
 Install Postgresql here: https://www.postgresql.org/
 
-After finishing your postgre install go to the repository file postgresql_commands.py and on the first line:
+After finishing your postgre install go to the repository file postgresql_commands_*.py and on the first line:
    
     conn = psycopg2.connect(dbname='', host='', user='', password='')
    
@@ -41,7 +41,7 @@ In addition, create tables in your newly created database, all the necessary tab
 
 We have two options on how to run it:
  
- 1- The fast way is just opening the main_file.py on your IDE and running it 
+ 1- The fast way is just opening the main.py on your IDE and running it 
 (make sure both files are on the same folder).
  
  2- We can use pyinstaller to make a .exe file (this makes it better for 
@@ -54,7 +54,7 @@ Lets make a .exe file. On your terminal type:
         
 After installing pyinstaller go to the file directory on your terminal and type:
 
-     pyinstaller --onefile -w main_file.py
+     pyinstaller --onefile -w main.py
 
 
 
