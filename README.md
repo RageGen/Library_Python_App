@@ -64,19 +64,20 @@ Here are some examples with what you can do with the GUI:
 
 
 - Inserting data
-![Insert](https://github.com/RageGen/Library_Manage_Python_Project/assets/82442165/6f53656d-7843-4fe8-83bf-c7fb164d5470)
+![Insert](https://github.com/RageGen/Library_Python_App/assets/82442165/11918a05-9a92-42f5-8ae7-e334a41f7ef6)
 
 - Deleting data
-![Delete](https://github.com/RageGen/Library_Manage_Python_Project/assets/82442165/751a1ee0-9348-4c3c-a5a6-925371c6af81)
+![Delete](https://github.com/RageGen/Library_Python_App/assets/82442165/e15119d0-24b4-4faa-809b-d8d3bee39fe5)
 
 - Updating data
-![Update](https://github.com/RageGen/Library_Manage_Python_Project/assets/82442165/7c58a3ec-371f-4b48-ba0a-c89f564f17ba)
+![Update](https://github.com/RageGen/Library_Python_App/assets/82442165/a3cfd1b5-b3ed-4ea0-a555-812322e33d62)
 
 - AVG Cost
-![Cost](https://github.com/RageGen/Library_Manage_Python_Project/assets/82442165/f2b19dae-2d16-4b8f-bf26-85459d780a15)
+![Cost](https://github.com/RageGen/Library_Python_App/assets/82442165/80ba3216-6ce0-48de-93e0-70de132354d6)
 
 - Expired readers
-![Readers](https://github.com/RageGen/Library_Manage_Python_Project/assets/82442165/c150d6af-a58a-45a9-8a09-97f6b8006b04)
+![Readers](https://github.com/RageGen/Library_Python_App/assets/82442165/52288e61-d192-4efe-add4-6a3ba6bb2b9e)
+
 
 
 
